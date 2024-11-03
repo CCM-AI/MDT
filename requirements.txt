@@ -1,4 +1,1 @@
-fastapi
-uvicorn
-transformers
-torch
+Flask==2.0.1
