@@ -1,4 +1,5 @@
 import streamlit as st
+from fuzzywuzzy import process
 
 # Sample responses for common questions
 responses = {
@@ -65,13 +66,17 @@ responses = {
     "how can I balance managing my condition with everyday life": "Incorporate healthy habits into your daily routine, like meal prepping and scheduling medication reminders.",
 }
 
-# Function to get answer based on keywords
+# Function to get answer based on keywords and fuzzy matching
 def get_answer(question):
     # Normalize the input
     question = question.strip().lower()
-    for key in responses:
-        if key in question:
-            return responses[key]
+    
+    # Use fuzzy matching to find the best response
+    matched_question, score = process.extractOne(question, responses.keys())
+    
+    # Set a threshold for a match
+    if score >= 80:  # You can adjust the threshold as needed
+        return responses[matched_question]
     return "I'm sorry, I don't have an answer for that."
 
 # Set the title of the app
