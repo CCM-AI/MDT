@@ -1,17 +1,12 @@
-## PerplexityAI MDT Model
+# MDT AI Assistant
 
-This repository contains a FastAPI application that uses a Transformer model to answer patient questions in a simulated multidisciplinary team (MDT) setting.
+This project is a simple AI assistant for a multidisciplinary team (MDT) that answers patient questions using a Flask web application.
 
-### Requirements
-- Python 3.8+
-- Install dependencies with `pip install -r requirements.txt`.
+## How to Use
 
-### Running the Application
-- To run the app, execute:
-  ```bash
-  ./run.sh
-  ```
-- Access the API at `http://localhost:8000`.
-
-### API Endpoints
-- `POST /answer`: Takes JSON with `question` and `context` fields and returns an answer and confidence level.
+1. Send a POST request to the `/ask` endpoint with a JSON body containing the question.
+2. Example:
+   ```json
+   {
+       "question": "What is your name?"
+   }
