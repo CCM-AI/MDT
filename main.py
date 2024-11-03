@@ -1,6 +1,4 @@
-from flask import Flask, request, jsonify
-
-app = Flask(__name__)
+import streamlit as st
 
 # Sample responses for common questions
 responses = {
@@ -10,12 +8,9 @@ responses = {
     "What should I do if I have a medical emergency?": "Please call emergency services or go to the nearest emergency room immediately."
 }
 
-@app.route('/ask', methods=['POST'])
-def ask():
-    data = request.json
-    question = data.get('question', '')
-    answer = responses.get(question, "I'm sorry, I don't have an answer for that.")
-    return jsonify({'answer': answer})
+st.title("MDT AI Assistant")
+question = st.text_input("Ask your question:")
 
-if __name__ == '__main__':
-    app.run(debug=True)
+if st.button("Get Answer"):
+    answer = responses.get(question, "I'm sorry, I don't have an answer for that.")
+    st.write(answer)
