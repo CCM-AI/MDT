@@ -1,1 +1,1 @@
-streamlit==1.17.0  # Or the latest version
+streamlit==1.17.0  # Use the latest version if you want
