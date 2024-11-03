@@ -1,2 +1,1 @@
-Flask==2.0.1
-Werkzeug==2.0.3
+streamlit==1.17.0  # Or the latest version
