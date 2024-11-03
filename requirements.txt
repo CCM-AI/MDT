@@ -1,1 +1,2 @@
-streamlit==1.17.0  # Use the latest version if you want
+streamlit==1.17.0  # or the latest version
+altair==4.2.0      # add this line for Altair
