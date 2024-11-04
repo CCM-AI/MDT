@@ -188,7 +188,7 @@ responses = {
         "You should experience fewer symptoms, less need for rescue inhalers, and improved peak flow readings.",
     
     "what should I do if I experience side effects from my asthma medication": 
-        "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
+        "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly.",
    # COPD Dictionary
 copd_info = {
     "what is your COPD": "Chronic Obstructive Pulmonary Disease is a lung disease that blocks airflow and makes breathing difficult.",
