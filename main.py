@@ -57,7 +57,7 @@ responses = {
     "how does stress affect diabetes management": "Stress can raise blood sugar levels, so finding effective stress management techniques is important.",
     "what should I do if I experience low blood sugar": "Eat or drink something with fast-acting carbohydrates, like juice or candy, and monitor your blood sugar levels.",
 
-"question": "What is diabetes?", "answer": "Diabetes is a chronic condition characterized by high blood sugar levels due to insulin production or use issues.",
+{"question": "What is diabetes?", "answer": "Diabetes is a chronic condition characterized by high blood sugar levels due to insulin production or use issues."},
         {"question": "What are the different types of diabetes?", "answer": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes."},
         {"question": "What are the symptoms of diabetes?", "answer": "Symptoms include increased thirst, frequent urination, extreme fatigue, blurred vision, and slow-healing sores."},
         {"question": "How is diabetes diagnosed?", "answer": "Diabetes is diagnosed through blood tests, including fasting blood sugar, oral glucose tolerance test, or HbA1c test."},
@@ -108,7 +108,7 @@ responses = {
         {"question": "What should I do if I miss a dose of my diabetes medication?", "answer": "Take the missed dose as soon as you remember, but skip it if it's almost time for the next dose."},
         {"question": "How can I help my children understand diabetes?", "answer": "Use age-appropriate resources and involve them in your management plan to foster understanding."},
         {"question": "What resources are available for diabetes education?", "answer": "Diabetes education programs, online resources, and support groups can provide valuable information and support."},
-    
+    ]
     
     # Cardiovascular Diseases
     "what is cardiovascular disease": "Cardiovascular disease refers to a group of disorders that affect the heart and blood vessels.",
