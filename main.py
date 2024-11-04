@@ -56,10 +56,9 @@ responses = {
     "what is the importance of foot care in diabetes management": "Proper foot care can prevent serious complications like infections and amputations.",
     "how does stress affect diabetes management": "Stress can raise blood sugar levels, so finding effective stress management techniques is important.",
     "what should I do if I experience low blood sugar": "Eat or drink something with fast-acting carbohydrates, like juice or candy, and monitor your blood sugar levels.",
-    "What is diabetes?", "answer": "Diabetes is a chronic condition characterized by high blood sugar levels due to insulin production or use issues.",
-    "What are the different types of diabetes?", "answer": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes.",
-    "What are the symptoms of diabetes?", "answer": "Symptoms include increased thirst, frequent urination, extreme fatigue, blurred vision, and slow-healing sores."},
-
+    "what is diabetes": "Diabetes is a chronic condition characterized by high blood sugar levels due to insulin production or use issues.",
+    "what are the different types of diabetes": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes.",
+    "what are the symptoms of diabetes": "Symptoms include increased thirst, frequent urination, extreme fatigue, blurred vision, and slow-healing sores."
     "What is diabetes": "Diabetes is a chronic condition characterized by high blood sugar levels.",
     "How can diabetes be managed": "Management includes monitoring blood sugar levels, dietary changes, and medication.",
     "What are the risk factors for diabetes": "Risk factors include obesity, family history, and sedentary lifestyle.",
