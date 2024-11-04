@@ -191,7 +191,7 @@ responses = {
         "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
     # COPD
 data = {
-    "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
+    what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
     # You can add more entries here
 }
     "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and frequent respiratory infections.",
