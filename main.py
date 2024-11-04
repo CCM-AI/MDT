@@ -99,7 +99,99 @@ responses = {
     "what lifestyle changes can help manage asthma": "Avoiding smoking, maintaining a healthy weight, and managing allergies can help.",
     "how does weather affect asthma": "Extreme weather conditions can trigger asthma symptoms; cold air and humidity are common triggers.",
     "what is peak flow monitoring": "Peak flow monitoring measures how well air moves out of your lungs, helping to manage asthma.",
+    # Asthma-related questions and answers
+asthma_responses = {
+    "how often should I review my asthma management plan with my doctor": 
+        "You should review your asthma management plan at least once a year or whenever there are changes in your symptoms or medication.",
     
+    "can environmental changes improve my asthma": 
+        "Yes, moving to a location with less pollution or allergens can improve asthma symptoms for some individuals.",
+    
+    "what is a spacer, and how does it help with inhalers": 
+        "A spacer is a device that attaches to inhalers, helping to deliver medication more effectively to the lungs.",
+    
+    "how can I prepare for asthma triggers during seasonal changes": 
+        "Prepare by monitoring pollen counts, adjusting your medication as needed, and minimizing outdoor activities during high-risk times.",
+    
+    "can obesity affect my asthma control": 
+        "Yes, obesity can make asthma symptoms worse and complicate treatment, so weight management is important.",
+    
+    "are there any new treatments for asthma": 
+        "New treatments such as biologics target specific asthma pathways and can be effective for severe asthma cases.",
+    
+    "what role does the immune system play in asthma": 
+        "In asthma, the immune system overreacts to allergens, causing inflammation and airway constriction.",
+    
+    "can I use essential oils to manage asthma symptoms": 
+        "While some people find essential oils helpful, they may trigger symptoms in others, so consult your doctor before use.",
+    
+    "what should I include in my asthma emergency kit": 
+        "Include your rescue inhaler, spacer, a copy of your asthma action plan, and any other necessary medications.",
+    
+    "what impact does sleep have on asthma": 
+        "Poor sleep can exacerbate asthma symptoms and reduce overall health, so maintaining good sleep hygiene is important.",
+    
+    "how can I help my child manage their asthma": 
+        "Educate them about asthma, help create a management plan, and work with their school to ensure a safe environment.",
+    
+    "what is the link between asthma and sinus infections": 
+        "Sinus infections can exacerbate asthma symptoms due to increased mucus production and inflammation.",
+    
+    "how can I improve indoor air quality for my asthma": 
+        "Use air purifiers, avoid smoking indoors, regularly clean to reduce dust, and maintain humidity levels.",
+    
+    "can I have both asthma and COPD": 
+        "Yes, having both conditions is possible, and it is referred to as asthma-COPD overlap syndrome.",
+    
+    "how can I recognize if my child has asthma": 
+        "Look for symptoms such as wheezing, frequent coughing, and difficulty breathing during physical activity.",
+    
+    "what are some tips for managing asthma during cold and flu season": 
+        "Get vaccinated, wash hands frequently, avoid close contact with sick individuals, and follow your asthma action plan.",
+    
+    "can I eat anything specific to help with asthma": 
+        "Eating a diet rich in fruits, vegetables, and omega-3 fatty acids may help reduce inflammation and improve lung health.",
+    
+    "what should I do if I forget to take my asthma medication": 
+        "Take the missed dose as soon as you remember unless it’s close to the next dose; in that case, skip the missed dose and continue with your schedule.",
+    
+    "what is the role of allergists in asthma management": 
+        "Allergists specialize in diagnosing and managing allergies that may trigger asthma symptoms and can provide targeted treatments.",
+    
+    "can stress management techniques help control asthma": 
+        "Yes, techniques such as deep breathing, meditation, and yoga can help reduce stress, which may improve asthma control.",
+    
+    "how can I encourage someone with asthma to adhere to their treatment plan": 
+        "Offer support, educate them about the importance of their medication, and help them track their symptoms and medication use.",
+    
+    "can I travel internationally with asthma": 
+        "Yes, but be sure to carry your medications, understand the air quality at your destination, and have a plan in case of an emergency.",
+    
+    "how do changes in altitude affect asthma": 
+        "Higher altitudes can sometimes exacerbate asthma symptoms due to lower oxygen levels; consult your doctor before traveling to high altitudes.",
+    
+    "can I still have a normal life with asthma": 
+        "Yes, with proper management, most people with asthma can lead normal, active lives.",
+    
+    "what are the best ways to stay active with asthma": 
+        "Choose low-impact activities, warm up before exercising, and use a rescue inhaler before exercise if necessary.",
+    
+    "how does humidity affect asthma": 
+        "High humidity can increase the risk of mold and dust mites, while low humidity can dry out the airways, both potentially triggering symptoms.",
+    
+    "what is the importance of hydration for asthma management": 
+        "Staying hydrated helps keep mucus thin and easier to expel, reducing the likelihood of airway blockage.",
+    
+    "can you outgrow asthma": 
+        "Some children may outgrow asthma, but for others, it can persist into adulthood.",
+    
+    "how do I know if my asthma medication is working": 
+        "You should experience fewer symptoms, less need for rescue inhalers, and improved peak flow readings.",
+    
+    "what should I do if I experience side effects from my asthma medication": 
+        "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
+}
+
     # COPD
     "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
     "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and frequent respiratory infections.",
