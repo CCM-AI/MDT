@@ -189,7 +189,6 @@ responses = {
     
     "what should I do if I experience side effects from my asthma medication": 
         "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
-}
 
     # COPD
     "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
