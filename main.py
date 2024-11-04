@@ -190,26 +190,18 @@ responses = {
     "what should I do if I experience side effects from my asthma medication": 
         "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
     
-   # COPD 
+  # COPD
     "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
-    "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and frequent respiratory infections.",
-    "how is COPD diagnosed": "COPD is diagnosed through lung function tests, imaging, and a review of symptoms.",
-    "what are the stages of COPD": "COPD is staged from mild to very severe based on symptoms and lung function tests.",
-    "what treatments are available for COPD": "Treatment may include bronchodilators, steroids, oxygen therapy, and pulmonary rehabilitation.",
-    "how can I manage my COPD symptoms": "Avoid smoking, follow treatment plans, and engage in regular physical activity to help manage symptoms.",
-    "what lifestyle changes can help with COPD": "Healthy eating, staying active, and avoiding pollutants can improve quality of life.",
-    "how does smoking affect COPD": "Smoking is the leading cause of COPD; quitting can slow disease progression and improve symptoms.",
-    "what should I do if I have difficulty breathing": "Seek medical help immediately if you're having severe difficulty breathing or a sudden worsening of symptoms.",
-    "how can pulmonary rehabilitation help me": "Pulmonary rehabilitation provides education, exercise training, and support to help manage COPD.",
-    "what role does oxygen therapy play in COPD treatment": "Oxygen therapy can help those with low oxygen levels breathe more easily and improve quality of life.",
-    "what are the complications of COPD": "Complications can include heart disease, lung infections, and pulmonary hypertension.",
-    "how can I tell if my COPD is getting worse": "Increased shortness of breath, more frequent exacerbations, and changes in sputum can indicate worsening COPD.",
-    "what is a COPD action plan": "A COPD action plan outlines steps to take during exacerbations and daily management strategies.",
-    "how can I recognize an exacerbation of COPD": "Symptoms may include increased cough, wheezing, and difficulty breathing that worsen over a few days.",
-    "what is the importance of vaccinations for people with COPD": "Vaccinations can help prevent respiratory infections that can worsen COPD symptoms.",
-    "how does air pollution affect COPD": "Air pollution can irritate the lungs and worsen symptoms in people with COPD.",
-    "what are some tips for managing COPD at home": "Create a clean air environment, follow your medication plan, and stay active within your limits."
-
+    "what are the symptoms of COPD": "Common symptoms include coughing, shortness of breath, wheezing, and chest tightness.",
+    "how is COPD diagnosed": "COPD is diagnosed through a combination of medical history, physical examination, and lung function tests.",
+    "what are the treatment options for COPD": "Treatment options may include medications (like bronchodilators and steroids), pulmonary rehabilitation, and oxygen therapy.",
+    "how can I manage my COPD": "Managing COPD involves quitting smoking, avoiding pollutants, following a healthy diet, and adhering to prescribed treatments.",
+    "what lifestyle changes can help with COPD": "Engaging in regular exercise, eating a balanced diet, and avoiding smoke and pollution can help manage COPD.",
+    "what is the prognosis for someone with COPD": "COPD is a progressive disease, and while it can be managed, it can worsen over time. Early diagnosis and management are key.",
+    "can COPD be cured": "There is currently no cure for COPD, but treatment can help manage symptoms and improve quality of life.",
+    "what should I do if I experience a COPD flare-up": "If you have a flare-up, use your rescue inhaler, take prescribed medications, and seek medical attention if necessary.",
+    "how does smoking affect COPD": "Smoking is the primary cause of COPD and can significantly worsen the disease. Quitting smoking is crucial for management.",
+    "are there any support groups for COPD patients": "Yes, there are many support groups and resources available for people with COPD. Your healthcare provider can help connect you with them.",
 }
 
 def find_best_match(user_input):
