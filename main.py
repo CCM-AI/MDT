@@ -249,6 +249,8 @@ responses = {
     "how does air pollution affect COPD": "Air pollution can irritate the lungs and worsen symptoms in people with COPD.",
     "what are some tips for managing COPD at home": "Create a clean air environment, follow your medication plan, and stay active within your limits.",
 
+    ]
+    
 def find_best_match(user_input):
     # Find the best match for the user input from the responses dictionary
     best_match = process.extractOne(user_input, responses.keys())
