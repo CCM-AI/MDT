@@ -35,10 +35,10 @@ responses = {
     "can high blood pressure be cured": "While high blood pressure can often be managed effectively, it may not be curable. Long-term management is important.",
 
     # Diabetes
-"what is diabetes": "Diabetes is a chronic condition characterized by high blood sugar levels due to issues with insulin production or use."
+    "what is diabetes": "Diabetes is a chronic condition characterized by high blood sugar levels due to issues with insulin production or use.",
     "what are the types of diabetes": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes.",
     "what are the symptoms of diabetes": "Common symptoms include increased thirst, frequent urination, extreme fatigue, and blurred vision.",
-    "how is diabetes diagnosed": "Diabetes is diagnosed through blood tests that check glucose levels.",
+    "how is diabetes diagnosed": "Diabetes is diagnosed through blood tests that check glucose levels."
     "what are the treatment options for diabetes": "Treatment may include lifestyle changes, insulin therapy, and medications to help control blood sugar levels.",
     "how can I manage my blood sugar levels": "Regular monitoring, a balanced diet, exercise, and taking medications as prescribed can help manage your blood sugar.",
     "what should I know about insulin therapy": "Insulin therapy involves injecting insulin to help control blood sugar levels, and your healthcare provider will guide you on how to use it.",
