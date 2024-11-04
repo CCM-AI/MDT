@@ -108,7 +108,7 @@ responses = {
         {"question": "What should I do if I miss a dose of my diabetes medication?", "answer": "Take the missed dose as soon as you remember, but skip it if it's almost time for the next dose."},
         {"question": "How can I help my children understand diabetes?", "answer": "Use age-appropriate resources and involve them in your management plan to foster understanding."},
         {"question": "What resources are available for diabetes education?", "answer": "Diabetes education programs, online resources, and support groups can provide valuable information and support."},
-    ]
+    
     
     # Cardiovascular Diseases
     "what is cardiovascular disease": "Cardiovascular disease refers to a group of disorders that affect the heart and blood vessels.",
