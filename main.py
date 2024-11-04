@@ -208,7 +208,7 @@ copd_info = {
     "how can I recognize an exacerbation of COPD": "Symptoms may include increased cough, wheezing, and difficulty breathing that worsen over a few days.",
     "what is the importance of vaccinations for people with COPD": "Vaccinations can help prevent respiratory infections that can worsen COPD symptoms.",
     "how does air pollution affect COPD": "Air pollution can irritate the lungs and worsen symptoms in people with COPD.",
-    "what are some tips for managing COPD at home": "Create a clean air environment, follow your medication plan, and stay active within your limits."
+    "what are some tips for managing COPD at home": "Create a clean air environment, follow your medication plan, and stay active within your limits.",
 
 }
 }
