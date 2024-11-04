@@ -189,7 +189,9 @@ responses = {
     
     "what should I do if I experience side effects from my asthma medication": 
         "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
-    # COPD
+   # COPD Dictionary
+copd_info = {
+    "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
     "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and frequent respiratory infections.",
     "how is COPD diagnosed": "COPD is diagnosed through lung function tests, imaging, and a review of symptoms.",
     "what are the stages of COPD": "COPD is staged from mild to very severe based on symptoms and lung function tests.",
@@ -207,6 +209,7 @@ responses = {
     "what is the importance of vaccinations for people with COPD": "Vaccinations can help prevent respiratory infections that can worsen COPD symptoms.",
     "how does air pollution affect COPD": "Air pollution can irritate the lungs and worsen symptoms in people with COPD.",
     "what are some tips for managing COPD at home": "Create a clean air environment, follow your medication plan, and stay active within your limits."
+}
 }
 
 def find_best_match(user_input):
