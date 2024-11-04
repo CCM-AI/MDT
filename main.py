@@ -46,7 +46,7 @@ responses = {
     "what is prediabetes": "Prediabetes is a condition where blood sugar levels are higher than normal but not high enough to be classified as diabetes.",
     "how often should I check my blood sugar levels": "Check your blood sugar as recommended by your healthcare provider, often several times a day.",
     "what foods should I eat to manage diabetes": "Focus on whole grains, lean proteins, healthy fats, fruits, and non-starchy vegetables.",
-    "how does exercise affect blood sugar levels": "Physical activity helps lower blood sugar by increasing insulin sensitivity and glucose uptake in muscles."
+    "how does exercise affect blood sugar levels": "Physical activity helps lower blood sugar by increasing insulin sensitivity and glucose uptake in muscles.",
     "what is the glycemic index": "The glycemic index ranks foods based on their effect on blood sugar levels; low-GI foods are better for blood sugar control.",
     "how can I prevent diabetes complications": "Control your blood sugar, maintain a healthy weight, and have regular check-ups with your healthcare provider.",
     "what is the role of carbohydrates in my diet": "Carbohydrates can raise blood sugar, so managing portion sizes and choosing complex carbs is important.",
@@ -60,7 +60,7 @@ responses = {
     "what are the different types of diabetes": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes.",
     "what are the symptoms of diabetes": "Symptoms include increased thirst, frequent urination, extreme fatigue, blurred vision, and slow-healing sores.",
     "how can diabetes be managed": "Management includes monitoring blood sugar levels, dietary changes, and medication.",
-    "what are the risk factors for diabetes": "Risk factors include obesity, family history, and sedentary lifestyle.",
+    "what are the risk factors for diabetes": "Risk factors include obesity, family history, and a sedentary lifestyle.",
     "what is the difference between Type 1 and Type 2 diabetes": "Type 1 is an autoimmune disease; Type 2 is often related to lifestyle.",
     "what is insulin and how does it work": "Insulin is a hormone that helps regulate blood sugar.",
     "what dietary changes can help manage diabetes": "A balanced diet low in refined sugars and rich in fiber is beneficial.",
