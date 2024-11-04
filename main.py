@@ -59,7 +59,6 @@ responses = {
     "What is diabetes?", "answer": "Diabetes is a chronic condition characterized by high blood sugar levels due to insulin production or use issues.",
     "What are the different types of diabetes?", "answer": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes.",
     "What are the symptoms of diabetes?", "answer": "Symptoms include increased thirst, frequent urination, extreme fatigue, blurred vision, and slow-healing sores."},
-    "How is diabetes diagnosed?", "answer": "Diabetes is diagnosed through blood tests, including fasting blood sugar, oral glucose tolerance test, or HbA1c test."},
 
     
     # Cardiovascular Diseases
