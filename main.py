@@ -189,8 +189,7 @@ responses = {
     
     "what should I do if I experience side effects from my asthma medication": 
         "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly.",
-   # COPD Dictionary
-copd_info = {
+   # COPD 
     "what is your COPD": "Chronic Obstructive Pulmonary Disease is a lung disease that blocks airflow and makes breathing difficult.",
     "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and frequent respiratory infections.",
     "how is COPD diagnosed": "COPD is diagnosed through lung function tests, imaging, and a review of symptoms.",
@@ -210,7 +209,6 @@ copd_info = {
     "how does air pollution affect COPD": "Air pollution can irritate the lungs and worsen symptoms in people with COPD.",
     "what are some tips for managing COPD at home": "Create a clean air environment, follow your medication plan, and stay active within your limits.",
 
-}
 }
 
 def find_best_match(user_input):
