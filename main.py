@@ -191,7 +191,7 @@ responses = {
         "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
    # COPD Dictionary
 copd_info = {
-    "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.,
+    "what is your COPD": "Chronic Obstructive Pulmonary Disease is a lung disease that blocks airflow and makes breathing difficult.",
     "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and frequent respiratory infections.",
     "how is COPD diagnosed": "COPD is diagnosed through lung function tests, imaging, and a review of symptoms.",
     "what are the stages of COPD": "COPD is staged from mild to very severe based on symptoms and lung function tests.",
