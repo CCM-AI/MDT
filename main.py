@@ -99,8 +99,7 @@ responses = {
     "what lifestyle changes can help manage asthma": "Avoiding smoking, maintaining a healthy weight, and managing allergies can help.",
     "how does weather affect asthma": "Extreme weather conditions can trigger asthma symptoms; cold air and humidity are common triggers.",
     "what is peak flow monitoring": "Peak flow monitoring measures how well air moves out of your lungs, helping to manage asthma.",
-    # Asthma-related questions and answers
-asthma_responses = {
+    
     "how often should I review my asthma management plan with my doctor": 
         "You should review your asthma management plan at least once a year or whenever there are changes in your symptoms or medication.",
     
