@@ -38,7 +38,7 @@ responses = {
     "what is diabetes": "Diabetes is a chronic condition characterized by high blood sugar levels due to issues with insulin production or use.",
     "what are the types of diabetes": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes.",
     "what are the symptoms of diabetes": "Common symptoms include increased thirst, frequent urination, extreme fatigue, and blurred vision.",
-    "how is diabetes diagnosed": "Diabetes is diagnosed through blood tests that check glucose levels."
+    "how is diabetes diagnosed": "Diabetes is diagnosed through blood tests that check glucose levels.",
     "what are the treatment options for diabetes": "Treatment may include lifestyle changes, insulin therapy, and medications to help control blood sugar levels.",
     "how can I manage my blood sugar levels": "Regular monitoring, a balanced diet, exercise, and taking medications as prescribed can help manage your blood sugar.",
     "what should I know about insulin therapy": "Insulin therapy involves injecting insulin to help control blood sugar levels, and your healthcare provider will guide you on how to use it.",
@@ -46,7 +46,7 @@ responses = {
     "what is prediabetes": "Prediabetes is a condition where blood sugar levels are higher than normal but not high enough to be classified as diabetes.",
     "how often should I check my blood sugar levels": "Check your blood sugar as recommended by your healthcare provider, often several times a day.",
     "what foods should I eat to manage diabetes": "Focus on whole grains, lean proteins, healthy fats, fruits, and non-starchy vegetables.",
-    "how does exercise affect blood sugar levels": "Physical activity helps lower blood sugar by increasing insulin sensitivity and glucose uptake in muscles.",
+    "how does exercise affect blood sugar levels": "Physical activity helps lower blood sugar by increasing insulin sensitivity and glucose uptake in muscles."
     "what is the glycemic index": "The glycemic index ranks foods based on their effect on blood sugar levels; low-GI foods are better for blood sugar control.",
     "how can I prevent diabetes complications": "Control your blood sugar, maintain a healthy weight, and have regular check-ups with your healthcare provider.",
     "what is the role of carbohydrates in my diet": "Carbohydrates can raise blood sugar, so managing portion sizes and choosing complex carbs is important.",
@@ -93,6 +93,7 @@ responses = {
     "how does aging affect diabetes management": "Aging can complicate management due to other health conditions.",
     "what are some strategies to improve blood sugar control": "Consistent meal timing and regular physical activity can help.",
     "what technology is available to help manage diabetes": "Continuous glucose monitors and insulin pumps are examples."
+    
     # Cardiovascular Diseases
     "what is cardiovascular disease": "Cardiovascular disease refers to a group of disorders that affect the heart and blood vessels.",
     "what are the symptoms of heart disease": "Symptoms may include chest pain, shortness of breath, and fatigue.",
