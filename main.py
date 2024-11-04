@@ -9,7 +9,7 @@ responses = {
     "how can I contact a doctor": "You can reach out to your doctor via the patient portal or contact the clinic directly.",
     "what should I do if I have a medical emergency": "Please call emergency services or go to the nearest emergency room immediately.",
     "what are the symptoms of flu": "Common flu symptoms include fever, cough, sore throat, body aches, and fatigue.",
-    
+
     # Hypertension
     "what is hypertension": "Hypertension, or high blood pressure, is a condition where the force of the blood against the artery walls is too high.",
     "what are the symptoms of hypertension": "Many people with hypertension have no symptoms, but it can lead to headaches, shortness of breath, or nosebleeds.",
@@ -33,7 +33,7 @@ responses = {
     "how can I tell if my blood pressure medication is working": "Regular monitoring and follow-up with your healthcare provider can help assess effectiveness.",
     "what should I do if I miss a dose of my blood pressure medication": "Take the missed dose as soon as you remember, but skip it if it's almost time for the next dose. Never double up.",
     "can high blood pressure be cured": "While high blood pressure can often be managed effectively, it may not be curable. Long-term management is important.",
-    
+
     # Diabetes
     "what is diabetes": "Diabetes is a chronic condition that occurs when the body cannot properly process food for use as energy.",
     "what are the types of diabetes": "The main types are Type 1 diabetes, Type 2 diabetes, and gestational diabetes.",
@@ -56,7 +56,7 @@ responses = {
     "what is the importance of foot care in diabetes management": "Proper foot care can prevent serious complications like infections and amputations.",
     "how does stress affect diabetes management": "Stress can raise blood sugar levels, so finding effective stress management techniques is important.",
     "what should I do if I experience low blood sugar": "Eat or drink something with fast-acting carbohydrates, like juice or candy, and monitor your blood sugar levels.",
-    
+
     # Cardiovascular Diseases
     "what is cardiovascular disease": "Cardiovascular disease refers to a group of disorders that affect the heart and blood vessels.",
     "what are the symptoms of heart disease": "Symptoms may include chest pain, shortness of breath, and fatigue.",
@@ -75,78 +75,73 @@ responses = {
     "what are the benefits of a heart-healthy diet": "A heart-healthy diet can lower cholesterol, blood pressure, and reduce the risk of heart disease.",
     "how can I recognize the signs of heart failure": "Signs may include shortness of breath, fatigue, and swelling in the legs and ankles.",
     "what is atrial fibrillation": "Atrial fibrillation is an irregular heartbeat that can increase the risk of stroke and heart-related complications.",
-    "what role does hydration play in heart health": "Staying hydrated supports overall cardiovascular function and helps regulate blood pressure.",
-    "how can I prevent heart disease if I have a family history": "Focus on a healthy lifestyle, including diet and exercise, and follow your healthcare provider's recommendations.",
+    "how does diabetes affect heart health": "Diabetes increases the risk of heart disease due to associated factors like high blood pressure and cholesterol.",
+    "what is coronary artery disease": "Coronary artery disease occurs when the coronary arteries become narrowed or blocked, leading to reduced blood flow to the heart.",
+    "how can I monitor my heart health at home": "You can track your blood pressure, heart rate, and maintain a healthy lifestyle.",
+    "what is the importance of regular check-ups for heart health": "Regular check-ups help monitor risk factors and catch issues early.",
+    
+    # Asthma
+    "what is asthma": "Asthma is a chronic condition that affects the airways, causing wheezing, shortness of breath, and coughing.",
+    "what triggers asthma attacks": "Common triggers include allergens, smoke, exercise, cold air, and respiratory infections.",
+    "how is asthma diagnosed": "Asthma is diagnosed based on medical history, symptoms, and tests like lung function tests.",
+    "what are the symptoms of asthma": "Symptoms include wheezing, coughing, chest tightness, and difficulty breathing.",
+    "how can I manage asthma symptoms": "Management includes avoiding triggers, using medications like inhalers, and following an asthma action plan.",
+    "what types of medications are used to treat asthma": "Medications include quick-relief inhalers for immediate symptoms and long-term control medications.",
+    "what is an asthma action plan": "An asthma action plan outlines how to manage asthma symptoms, including when to use medications and seek help.",
+    "how can I avoid asthma triggers": "Identify and minimize exposure to known triggers, such as allergens and irritants.",
+    "what should I do during an asthma attack": "Use your quick-relief inhaler and seek medical help if symptoms do not improve.",
+    "how does exercise affect asthma": "Exercise can benefit asthma control if managed carefully; warm up properly and avoid triggers.",
+    "what are the long-term effects of uncontrolled asthma": "Uncontrolled asthma can lead to permanent changes in lung function and increased risk of severe attacks.",
+    "how can I tell if my asthma is well-controlled": "Well-controlled asthma means fewer symptoms, no nighttime awakenings, and no limitations on activities.",
+    "what is the role of allergy testing in asthma management": "Allergy testing can help identify triggers and guide management strategies.",
+    "how often should I see my doctor for asthma management": "Regular follow-ups with your healthcare provider are important for managing asthma effectively.",
+    "what is the difference between asthma and COPD": "Asthma is usually reversible and often triggered by allergens, while COPD is a progressive disease typically linked to smoking.",
+    "what lifestyle changes can help manage asthma": "Avoiding smoking, maintaining a healthy weight, and managing allergies can help.",
+    "how does weather affect asthma": "Extreme weather conditions can trigger asthma symptoms; cold air and humidity are common triggers.",
+    "what is peak flow monitoring": "Peak flow monitoring measures how well air moves out of your lungs, helping to manage asthma.",
     
     # COPD
-    "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a lung disease that makes it hard to breathe.",
-    "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and wheezing.",
-    "how is COPD diagnosed": "Diagnosis involves a physical exam, lung function tests, and imaging tests like X-rays.",
-    "what treatments are available for COPD": "Treatment may include medications, pulmonary rehabilitation, and oxygen therapy.",
-    "how can I manage my COPD symptoms": "Avoid triggers, use prescribed medications, and practice breathing exercises to manage symptoms.",
-    "what role does smoking cessation play in COPD management": "Quitting smoking is crucial as it can slow the progression of the disease and improve lung function.",
-    "what are the long-term effects of COPD": "COPD can lead to worsening lung function, respiratory infections, and complications like heart disease.",
-    "how can I improve my lung health with COPD": "Engage in pulmonary rehabilitation, stay active within limits, and follow your treatment plan.",
-    "what should I do during a COPD flare-up": "Use your rescue inhaler and follow your action plan; seek medical help if symptoms worsen.",
-    "how can I recognize early signs of COPD": "Watch for persistent cough, increased mucus production, and increasing shortness of breath.",
-    "what lifestyle changes can help with COPD": "Avoid smoking, exercise as tolerated, eat a healthy diet, and maintain good indoor air quality.",
-    "how does air quality affect COPD symptoms": "Poor air quality can worsen symptoms, so limit exposure to pollutants and allergens.",
-    "what is pulmonary rehabilitation": "A structured program that includes exercise training, education, and support for individuals with lung diseases.",
-    "how can I use an inhaler effectively": "Follow instructions from your healthcare provider; use a spacer if recommended for better medication delivery.",
-    "what should I know about oxygen therapy": "Oxygen therapy can help maintain adequate oxygen levels; follow your provider’s instructions for use.",
-    "how can I prevent respiratory infections with COPD": "Practice good hygiene, get vaccinated, and avoid close contact with sick individuals.",
-    "what are the benefits of using a humidifier for COPD": "A humidifier can help keep airways moist, making it easier to breathe.",
-    "how often should I see my healthcare provider for COPD management": "Regular follow-up appointments are essential for monitoring and adjusting your treatment plan.",
-    "what role does nutrition play in COPD management": "A balanced diet can support overall health and help maintain a healthy weight, reducing the burden on your lungs.",
-    
-    # General chronic conditions
-    "how can I effectively communicate with my healthcare team": "Be honest about your symptoms, ask questions, and express any concerns during your appointments.",
-    "what role does nutrition play in managing my health condition": "Good nutrition supports overall health and helps manage conditions like hypertension, diabetes, and heart disease.",
-    "how can I stay motivated to manage my health": "Set small, achievable goals, track your progress, and seek support from family, friends, or support groups.",
-    "what are the benefits of physical activity for my condition": "Regular physical activity helps control weight, lowers blood pressure, improves heart health, and boosts mood.",
-    "what should I know about my family history and its impact on my health": "Family history can influence your risk for certain conditions. Share this information with your healthcare provider for tailored advice.",
-    "what resources are available for learning about my condition": "Many organizations provide educational materials, online resources, and support groups tailored to specific conditions.",
-    "how can I balance managing my condition with everyday life": "Incorporate healthy habits into your daily routine, like meal prepping and scheduling medication reminders.",
-    "what is an action plan for managing my condition": "An action plan outlines steps to take in daily management and what to do in case of emergencies.",
-    "what should I do if I feel unwell or have new symptoms": "Contact your healthcare provider for guidance on how to proceed.",
-    "how can I prepare for a doctor's appointment": "Make a list of questions, symptoms, and medications to discuss with your provider.",
-    "what are some strategies for stress management": "Consider mindfulness, relaxation techniques, and engaging in hobbies you enjoy.",
-    "how can I involve my family in my health management": "Share your goals and plans with family members and ask for their support in achieving them.",
-    "what should I know about medication adherence": "Taking medications as prescribed is crucial for managing your condition and preventing complications.",
-    "how often should I schedule follow-up appointments": "Follow your healthcare provider's recommendations for regular check-ups based on your condition.",
-    "what is the importance of monitoring my symptoms": "Monitoring helps track your condition's progress and informs your healthcare provider about necessary adjustments.",
-    "how can I find a support group for my condition": "Check with local hospitals, community centers, or online resources for support group listings.",
-    "what should I know about advanced care planning": "Advanced care planning involves making decisions about future healthcare preferences and communicating them to your loved ones.",
-    "how can I prevent complications from my condition": "Follow your treatment plan, make healthy lifestyle choices, and stay in communication with your healthcare provider.",
-    "what role does hydration play in managing my health": "Staying hydrated is essential for overall health and can help manage certain conditions effectively.",
-    "how can I set realistic goals for my health management": "Consider your current situation and break larger goals into smaller, manageable steps.",
-    "what is the importance of sleep in managing chronic conditions": "Good sleep supports overall health, helps with recovery, and improves mood and energy levels.",
-    "how can I track my progress in managing my condition": "Use a journal or an app to record symptoms, medication adherence, and lifestyle changes.",
+    "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
+    "what are the symptoms of COPD": "Symptoms include chronic cough, shortness of breath, and frequent respiratory infections.",
+    "how is COPD diagnosed": "COPD is diagnosed through lung function tests, imaging, and a review of symptoms.",
+    "what are the stages of COPD": "COPD is staged from mild to very severe based on symptoms and lung function tests.",
+    "what treatments are available for COPD": "Treatment may include bronchodilators, steroids, oxygen therapy, and pulmonary rehabilitation.",
+    "how can I manage my COPD symptoms": "Avoid smoking, follow treatment plans, and engage in regular physical activity to help manage symptoms.",
+    "what lifestyle changes can help with COPD": "Healthy eating, staying active, and avoiding pollutants can improve quality of life.",
+    "how does smoking affect COPD": "Smoking is the leading cause of COPD; quitting can slow disease progression and improve symptoms.",
+    "what should I do if I have difficulty breathing": "Seek medical help immediately if you're having severe difficulty breathing or a sudden worsening of symptoms.",
+    "how can pulmonary rehabilitation help me": "Pulmonary rehabilitation provides education, exercise training, and support to help manage COPD.",
+    "what role does oxygen therapy play in COPD treatment": "Oxygen therapy can help those with low oxygen levels breathe more easily and improve quality of life.",
+    "what are the complications of COPD": "Complications can include heart disease, lung infections, and pulmonary hypertension.",
+    "how can I tell if my COPD is getting worse": "Increased shortness of breath, more frequent exacerbations, and changes in sputum can indicate worsening COPD.",
+    "what is a COPD action plan": "A COPD action plan outlines steps to take during exacerbations and daily management strategies.",
+    "how can I recognize an exacerbation of COPD": "Symptoms may include increased cough, wheezing, and difficulty breathing that worsen over a few days.",
+    "what is the importance of vaccinations for people with COPD": "Vaccinations can help prevent respiratory infections that can worsen COPD symptoms.",
+    "how does air pollution affect COPD": "Air pollution can irritate the lungs and worsen symptoms in people with COPD.",
+    "what are some tips for managing COPD at home": "Create a clean air environment, follow your medication plan, and stay active within your limits."
 }
 
-# Function to get answer based on keywords and fuzzy matching
-def get_answer(question):
-    # Normalize the input
-    question = question.strip().lower()
-    
-    # Use fuzzy matching to find the best response
-    matched_question, score = process.extractOne(question, responses.keys())
-    
-    # Set a threshold for a match
-    if score >= 80:  # You can adjust the threshold as needed
-        return responses[matched_question]
-    return "I'm sorry, I don't have an answer for that."
+def find_best_match(user_input):
+    # Find the best match for the user input from the responses dictionary
+    best_match = process.extractOne(user_input, responses.keys())
+    return best_match[0] if best_match[1] > 60 else None  # Only return if confidence > 60%
 
-# Set the title of the app
-st.title("MDT AI Medical Assistant")
+def main():
+    st.title("Health Inquiry Assistant")
+    st.write("Ask your health-related questions and receive accurate information.")
 
-# Provide guidance on questions
-st.write("You can ask any medical question:")
+    user_input = st.text_input("Type your question here:")
 
-# Get user input
-question = st.text_input("Ask your question:")
+    if st.button("Get Answer"):
+        if user_input:
+            best_match = find_best_match(user_input.lower())
+            if best_match:
+                response = responses[best_match]
+                st.success(response)
+            else:
+                st.warning("Sorry, I don't have an answer for that question. Please try asking something else.")
+        else:
+            st.warning("Please enter a question.")
 
-# Respond to user input
-if st.button("Get Answer"):
-    answer = get_answer(question)
-    st.write(answer)
+if __name__ == "__main__":
+    main()
