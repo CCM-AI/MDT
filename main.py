@@ -189,8 +189,7 @@ responses = {
     
     "what should I do if I experience side effects from my asthma medication": 
         "Report any side effects to your healthcare provider, who may adjust your treatment plan accordingly."
-    
-  # COPD
+    # COPD
     "what is COPD": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that block airflow and make breathing difficult.",
     "what are the symptoms of COPD": "Common symptoms include coughing, shortness of breath, wheezing, and chest tightness.",
     "how is COPD diagnosed": "COPD is diagnosed through a combination of medical history, physical examination, and lung function tests.",
@@ -202,7 +201,6 @@ responses = {
     "what should I do if I experience a COPD flare-up": "If you have a flare-up, use your rescue inhaler, take prescribed medications, and seek medical attention if necessary.",
     "how does smoking affect COPD": "Smoking is the primary cause of COPD and can significantly worsen the disease. Quitting smoking is crucial for management.",
     "are there any support groups for COPD patients": "Yes, there are many support groups and resources available for people with COPD. Your healthcare provider can help connect you with them.",
-}
 
 def find_best_match(user_input):
     # Find the best match for the user input from the responses dictionary
